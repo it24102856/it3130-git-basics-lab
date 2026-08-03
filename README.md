@@ -26,3 +26,8 @@ git log
 git remote
 
 git push
+## What I learned
+
+I learned how Git manages changes using the working directory, staging area, and local repository.
+I practised creating commits, checking history, and connecting a local repository with a remote GitHub repository.
+I also learned how to push changes securely using Git.
